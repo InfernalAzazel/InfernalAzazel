@@ -55,6 +55,6 @@ Here are some ideas to get you started:
   </a>
   </a>
     <a href="https://rust-lang.org" target="_blank" rel="noreferrer">
-    <img alt="rust" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original-wordmark.svg">
+    <img alt="rust" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   </a>
 </p>
