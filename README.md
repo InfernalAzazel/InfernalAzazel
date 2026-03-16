@@ -37,9 +37,6 @@ Here are some ideas to get you started:
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img alt="typescript" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img alt="react" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img alt="vuejs" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
   </a>
@@ -49,12 +46,5 @@ Here are some ideas to get you started:
     <a href="https://python.org" target="_blank" rel="noreferrer">
     <img alt="python" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   </a>
-  </a>
-    <a href="https://golang.dev" target="_blank" rel="noreferrer">
-    <img alt="golang" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-  </a>
-  </a>
-    <a href="https://rust-lang.org" target="_blank" rel="noreferrer">
-    <img alt="rust" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
-  </a>
+
 </p>
