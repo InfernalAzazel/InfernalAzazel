@@ -4,7 +4,7 @@
   <a style="font-size: 14px" href="https://hairy.blog/">Kylin's Blog</a>
 </h3>
 
-- 🔭 I’m currently working and learning ...
+- 🔭 Currently looking for a job ...
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=InfernalAzazel&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img width="380px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfernalAzazel&layout=compact&hide_border=true&hide=javascript,css" /></a> |
 | ------------- | ------------- |
@@ -48,3 +48,8 @@ Here are some ideas to get you started:
   </a>
 
 </p>
+
+📫 Contact Me
+
+- 📧 Email: 260987762@qq.com
+- 💬 Open to collaboration / freelance / interesting ideas
