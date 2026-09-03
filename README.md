@@ -31,7 +31,6 @@ class Kylin:
 
 ### 📬 Connect
 
-[![Blog](https://img.shields.io/badge/✍️_Blog-hairy.blog-0a66c2?style=for-the-badge)](https://hairy.blog/)
 [![Email](https://img.shields.io/badge/📧_Email-260987762@qq.com-ea4335?style=for-the-badge)](mailto:260987762@qq.com)
 [![Open to Work](https://img.shields.io/badge/💼_Status-Open_to_Work-2dba4e?style=for-the-badge)](#)
 
